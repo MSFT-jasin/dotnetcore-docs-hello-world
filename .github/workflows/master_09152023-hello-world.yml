@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: '09152023-hello-world'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0387E36F9D644A5C97C44FD5A651B93D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9AA6CCE5811F43B09BCE528AAE6189E2 }}
           package: .
